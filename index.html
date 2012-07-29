@@ -23,45 +23,43 @@
         </div>
       </div>
     </div>
-    <div id="container">
-      <div class="inner">
+    <div class="container">
 
-        <header>
-          <h1>Pas op: Ongegronde hadith</h1>
-          <h2 class="pull-right"><strong>...ongegronde overleveringen
-              (hadith) doen afdwalen van het pad van God...</strong><h2>
-          <h1 dir="rtl">لهو الحديث ليضل عن سبيل الله</h1>
-          <h2 class="pull-right">-- De Koran 31:6</h2>
-        </header>
+      <header>
+        <h1>Pas op: Ongegronde hadith</h1>
+        <h2 class="pull-right"><strong>...ongegronde overleveringen
+            (hadith) doen afdwalen van het pad van God...</strong><h2>
+        <h1 dir="rtl">لهو الحديث ليضل عن سبيل الله</h1>
+        <h2 class="pull-right">-- De Koran 31:6</h2>
+      </header>
 
-        <section id="main-content"></section>
+      <section id="main-content"></section>
 
-        <footer>
-          <a href="http://www.ongegrondehadith.nl">ongegrondehadith.nl</a> is maintained by <a href="https://github.com/oneknlr">Waheed Kneeler</a><br>
-          This page is hosted by <a href="http://github.com">GitHub</a>.
-        </footer>
+      <footer>
+        <a href="http://www.ongegrondehadith.nl">ongegrondehadith.nl</a> is maintained by <a href="https://github.com/oneknlr">Waheed Kneeler</a><br>
+        This page is hosted by <a href="http://github.com">GitHub</a>.
+      </footer>
 
-        <script type="text/javascript">
-          converter = new Markdown.Converter();
-          $(document).ready(function() {
-            $.ajax({
-              url: '/CONTENT.md',
-              success: function(data) { $('#main-content').html(converter.makeHtml(data)); }
-            });
+      <script type="text/javascript">
+        converter = new Markdown.Converter();
+        $(document).ready(function() {
+          $.ajax({
+            url: '/CONTENT.md',
+            success: function(data) { $('#main-content').html(converter.makeHtml(data)); }
           });
-        </script>
-        <script type="text/javascript">
-          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-          document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script>
-        <script type="text/javascript">
-          try {
-            var pageTracker = _gat._getTracker("UA-33725069-1");
-            pageTracker._trackPageview();
-          } catch(err) {}
-        </script>
+        });
+      </script>
+      <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+        try {
+          var pageTracker = _gat._getTracker("UA-33725069-1");
+          pageTracker._trackPageview();
+        } catch(err) {}
+      </script>
 
-      </div>
     </div>
   </body>
 </html>
