@@ -17,6 +17,7 @@
   padding-right: 0px;
 }
 
-h1, h2 {
+h1.pull-right, h2.pull-right {
   width: 100%
+  text-align: right;
 }
