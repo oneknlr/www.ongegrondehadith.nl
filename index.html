@@ -48,9 +48,10 @@
         $(document).ready(function() {
           $.ajax({
             url: '/CONTENT.md',
-            success: function(data) { $('#main-content').html(converter.makeHtml(data));
-              $("p,h1,h2,h3,h4,h5,li").each(function(){
-                $(this).html(this.html().replace('--','&mdash;'));
+            success: function(data) {
+              $('#main-content').html(converter.makeHtml(data));
+              $('p,h1,h2,h3,h4,h5,li').each(function(){
+                $(this).html($(this).html().replace('--','&mdash;'));
               });
             }
           });
