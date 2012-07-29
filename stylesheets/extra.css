@@ -10,6 +10,6 @@
 }
 
 .pull-right {
-  float: right;
+  float: right !important;
 }
 
