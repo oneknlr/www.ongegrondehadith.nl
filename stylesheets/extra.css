@@ -20,4 +20,5 @@
 h1.pull-right, h2.pull-right {
   clear: both;
   text-align: right;
+  float: right;
 }
