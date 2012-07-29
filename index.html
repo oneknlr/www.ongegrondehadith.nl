@@ -23,7 +23,7 @@
 converter = new Markdown.Converter();
 $.ajax({
   url: 'https://raw.github.com/oneknlr/www.ongegrondehadith.nl/gh-pages/CONTENT.md',
-  success: function(data) { document.write(converter.makeHtml(data)); }
+  success: function(data) { alert(data); document.write(converter.makeHtml(data)); }
 });
 </script>
 
