@@ -1,11 +1,3 @@
-# Pas op: ongegronde hadith
-( لهو الحديث )
-
-# Pas op: ongegronde hadith om te misleiden van Gods weg
-( لهو الحديث ليضل عن سبيل الله  )
-
-Beste lezer, welkom in vrede!
-
 Deze site is een **waarschuwing** voor ieder die in God gelooft en naast
 de Koran ook hadith-collecties accepteert.
 
