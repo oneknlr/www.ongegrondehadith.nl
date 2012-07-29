@@ -21,9 +21,14 @@
 
 <script>
 converter = new Markdown.Converter();
+
+$(document).ready(function() {
+
 $.ajax({
   url: 'https://raw.github.com/oneknlr/www.ongegrondehadith.nl/gh-pages/CONTENT.md',
   success: function(data) { alert(data); document.write(converter.makeHtml(data)); }
+});
+
 });
 </script>
 
