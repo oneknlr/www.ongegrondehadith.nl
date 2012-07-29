@@ -1,14 +1,17 @@
+Beste lezer, welkom in vrede!
+
 Deze site is een **waarschuwing** voor ieder die in God gelooft en naast
 de Koran ook hadith-collecties accepteert.
 
 De Koran -- door God geopenbaard, recht leidend en vol van wijsheid --
 bevat een duidelijke waarschuwing: pas op voor hadith-collecties.  Op
 deze site:
- 1. lichten we die waarschuwing duidelijk uit,
- 2. ontkrachten we de veel gebruikte *Koran interpretatie trucs* waarmee
-    de hadith-collecties autoriteit wordt gegeven, en
- 3. laten we zien hoe de hadith-collecties de Koran op belangrijke
-    punten tegenspreekt.
+
+1. lichten we die waarschuwing duidelijk uit,
+2. ontkrachten we de veel gebruikte *Koran interpretatie trucs* waarmee
+   de hadith-collecties autoriteit wordt gegeven, en
+3. laten we zien hoe de hadith-collecties de Koran op belangrijke
+   punten tegenspreekt.
 
 
 ## Wat zijn de hadith-collecties precies?
