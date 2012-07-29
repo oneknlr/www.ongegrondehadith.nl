@@ -1,4 +1,3 @@
-
 .container, .navbar-fixed-top .container {
   width: 1170px;
 }
@@ -10,6 +9,14 @@
 }
 
 .pull-right {
-  float: right !important;
+  float: right;
 }
 
+navbar brand.pull-right {
+  float: right;
+  padding-right: 0px;
+}
+
+h1, h2 {
+  width: 100%
+}
