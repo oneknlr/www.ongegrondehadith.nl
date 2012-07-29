@@ -45,8 +45,8 @@
 
       <script type="text/javascript">
         converter = new Markdown.Converter();
-        function make_mdashes(){ $("p h1 h2 h3 h4 h5 li").each(function(){
-          $(this).html(this.html().replace('*****','<span class="stars stars5">* * * * *</span>'));
+        function make_mdashes(){ $("p,h1,h2,h3,h4,h5,li").each(function(){
+          $(this).html(this.html().replace('--','&mdash;')); alert('bla');
         }); };
         $(document).ready(function() {
           $.ajax({
