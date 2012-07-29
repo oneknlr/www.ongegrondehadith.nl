@@ -12,7 +12,7 @@
   float: right;
 }
 
-navbar brand.pull-right {
+.navbar .brand.pull-right {
   float: right;
   padding-right: 0px;
 }
