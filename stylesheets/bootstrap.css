@@ -1034,6 +1034,11 @@ table .span24 {
   line-height: 27px;
   color: inherit;
 }
+blockquote p {
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+}
 .pull-right {
   float: right;
 }
