@@ -132,9 +132,9 @@ textarea {
   box-sizing: border-box;
 }
 /* // Grid system and page structure*/
-/* [> @import "bootstrap.less.d/scaffolding.less";<]*/
-/* [> @import "bootstrap.less.d/grid.less";<]*/
-/* [> @import "bootstrap.less.d/layouts.less";<]*/
+/* @import "bootstrap.less.d/scaffolding.less";*/
+/* @import "bootstrap.less.d/grid.less";*/
+/* @import "bootstrap.less.d/layouts.less";*/
 /* // Base CSS*/
 p {
   margin: 0 0 9px;
@@ -156,8 +156,8 @@ h4,
 h5,
 h6 {
   margin: 0;
-  font-family: inherit;
-  font-weight: bold;
+  font-family: "Chivo", "Helvetica Neue", Helvetica, Arial, serif;
+  font-weight: 900;
   color: inherit;
   text-rendering: optimizelegibility;
 }
