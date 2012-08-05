@@ -135,8 +135,8 @@ textarea {
 body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 13px;
-  line-height: 18px;
+  font-size: 16px;
+  line-height: 22.5px;
   color: #333333;
   background-color: #ffffff;
 }
@@ -152,17 +152,17 @@ a:hover {
 /* @import "bootstrap.less.d/layouts.less";*/
 /* // Base CSS*/
 p {
-  margin: 0 0 9px;
+  margin: 0 0 11.25px;
 }
 p small {
-  font-size: 11px;
+  font-size: 14px;
   color: #999999;
 }
 .lead {
-  margin-bottom: 18px;
+  margin-bottom: 22.5px;
   font-size: 20px;
   font-weight: 200;
-  line-height: 27px;
+  line-height: 33.75px;
 }
 h1,
 h2,
@@ -187,21 +187,21 @@ h6 small {
 }
 h1 {
   font-size: 30px;
-  line-height: 36px;
+  line-height: 45px;
 }
 h1 small {
   font-size: 18px;
 }
 h2 {
   font-size: 24px;
-  line-height: 36px;
+  line-height: 45px;
 }
 h2 small {
   font-size: 18px;
 }
 h3 {
   font-size: 18px;
-  line-height: 27px;
+  line-height: 33.75px;
 }
 h3 small {
   font-size: 14px;
@@ -209,7 +209,7 @@ h3 small {
 h4,
 h5,
 h6 {
-  line-height: 18px;
+  line-height: 22.5px;
 }
 h4 {
   font-size: 14px;
@@ -226,8 +226,8 @@ h6 {
   text-transform: uppercase;
 }
 .page-header {
-  padding-bottom: 17px;
-  margin: 18px 0;
+  padding-bottom: 21.5px;
+  margin: 22.5px 0;
   border-bottom: 1px solid #eeeeee;
 }
 .page-header h1 {
@@ -236,7 +236,7 @@ h6 {
 ul,
 ol {
   padding: 0;
-  margin: 0 0 9px 25px;
+  margin: 0 0 11.25px 25px;
 }
 ul ul,
 ul ol,
@@ -251,7 +251,7 @@ ol {
   list-style: decimal;
 }
 li {
-  line-height: 18px;
+  line-height: 22.5px;
 }
 ul.unstyled,
 ol.unstyled {
@@ -259,18 +259,18 @@ ol.unstyled {
   list-style: none;
 }
 dl {
-  margin-bottom: 18px;
+  margin-bottom: 22.5px;
 }
 dt,
 dd {
-  line-height: 18px;
+  line-height: 22.5px;
 }
 dt {
   font-weight: bold;
-  line-height: 17px;
+  line-height: 21.5px;
 }
 dd {
-  margin-left: 9px;
+  margin-left: 11.25px;
 }
 .dl-horizontal dt {
   float: left;
@@ -285,7 +285,7 @@ dd {
   margin-left: 130px;
 }
 hr {
-  margin: 18px 0;
+  margin: 22.5px 0;
   border: 0;
   border-top: 1px solid #eeeeee;
   border-bottom: 1px solid #ffffff;
@@ -309,18 +309,18 @@ abbr.initialism {
 }
 blockquote {
   padding: 0 0 0 15px;
-  margin: 0 0 18px;
+  margin: 0 0 22.5px;
   border-left: 5px solid #eeeeee;
 }
 blockquote p {
   margin-bottom: 0;
   font-size: 16px;
   font-weight: 300;
-  line-height: 22.5px;
+  line-height: 28.125px;
 }
 blockquote small {
   display: block;
-  line-height: 18px;
+  line-height: 22.5px;
   color: #999999;
 }
 blockquote small:before {
@@ -345,9 +345,9 @@ blockquote:after {
 }
 address {
   display: block;
-  margin-bottom: 18px;
+  margin-bottom: 22.5px;
   font-style: normal;
-  line-height: 18px;
+  line-height: 22.5px;
 }
 small {
   font-size: 100%;
@@ -365,12 +365,12 @@ table {
 }
 .table {
   width: 100%;
-  margin-bottom: 18px;
+  margin-bottom: 22.5px;
 }
 .table th,
 .table td {
   padding: 8px;
-  line-height: 18px;
+  line-height: 22.5px;
   text-align: left;
   vertical-align: top;
   border-top: 1px solid #dddddd;
@@ -587,7 +587,7 @@ table .span24 {
   *position: relative;
   *z-index: 2;
   overflow: visible;
-  margin-bottom: 18px;
+  margin-bottom: 22.5px;
 }
 .navbar-inner {
   min-height: 40px;
@@ -782,7 +782,7 @@ table .span24 {
   display: inline-block;
   padding: 4px 10px 4px;
   margin: 5px 5px 6px;
-  line-height: 18px;
+  line-height: 22.5px;
 }
 .navbar .btn-group {
   margin: 0;
@@ -1031,13 +1031,13 @@ table .span24 {
 .hero-unit p {
   font-size: 18px;
   font-weight: 200;
-  line-height: 27px;
+  line-height: 33.75px;
   color: inherit;
 }
 blockquote p {
-  font-size: 13px;
+  font-size: 16px;
   font-weight: normal;
-  line-height: 18px;
+  line-height: 22.5px;
 }
 .pull-right {
   float: right;
