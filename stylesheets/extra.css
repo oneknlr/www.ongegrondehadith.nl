@@ -1,3 +1,46 @@
 body {
-  background: #fff url('../images/mosaique_bg.jpg') center no-repeat; 
+  background: #fff url('../images/mosaique2_bg.jpg') center top no-repeat;
+}
+
+body > .container {
+  width: 940px;
+}
+
+.centered {
+  text-align: center;
+}
+.to-right {
+  text-align: right;
+}
+
+header h1 {
+  font-size: 65px;
+  text-shadow:  0.02em  0.02em 0.05em #fff,
+                0.02em -0.02em 0.05em #fff,
+               -0.02em  0.02em 0.05em #fff,
+               -0.02em -0.02em 0.05em #fff;
+}
+
+header h2 {
+  font-size: 40px;
+  line-height: 70%;
+  padding-top: 20px;
+  text-shadow:  0.02em  0.02em 0.05em #fff,
+                0.02em -0.02em 0.05em #fff,
+               -0.02em  0.02em 0.05em #fff,
+               -0.02em -0.02em 0.05em #fff;
+}
+
+header h3 {
+  margin-top: -10px;
+  font-size: 20px;
+}
+
+header {
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
+  color: inherit;
 }

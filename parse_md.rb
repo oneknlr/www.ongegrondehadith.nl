@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
 
 
-require 'maruku'
+require 'redcarpet'
 
 orig = open('./index.html').read
 
-content = Maruku.new(open('./CONTENT.md').read).to_html
+content = Redcarpet::Markdown.new(Redcarpet::Render::XHTML).render open('./CONTENT.md').read
 
 result = orig.gsub(/<!-- BEGIN CONTENT.*END CONTENT -->/m,
                    "<!-- BEGIN CONTENT-->\n\n#{content}\n\n<!--END CONTENT -->")
