@@ -149,7 +149,32 @@ a:hover {
   text-decoration: underline;
 }
 /* @import "bootstrap.less.d/grid.less";*/
-/* @import "bootstrap.less.d/layouts.less";*/
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  *zoom: 1;
+}
+.container:before,
+.container:after {
+  display: table;
+  content: "";
+}
+.container:after {
+  clear: both;
+}
+.container-fluid {
+  padding-right: 20px;
+  padding-left: 20px;
+  *zoom: 1;
+}
+.container-fluid:before,
+.container-fluid:after {
+  display: table;
+  content: "";
+}
+.container-fluid:after {
+  clear: both;
+}
 /* // Base CSS*/
 p {
   margin: 0 0 11.25px;
