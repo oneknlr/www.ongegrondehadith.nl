@@ -79,11 +79,6 @@ In de volgende verzen komt het woord voor: 4:42,87,140; 6:68; 7:185;
 12:6,21,101-111; 18:6; 20:9; 23:44; 31:6; 34:19; 39:23; 45:6; 51:24;
 52:34; 53:59; 56:81; 66:3; 68:44; 77:50; 79:15; 85:17 en 88:1.
 
-Als u echt wilt weten hoe de Koran het woord *hadith* gebruikt zult u
-het zelf moeten lezen...  De Koran raad ons herhaaldelijk aan **zelf**
-ons eigen onderzoek te doen: te lezen en ons verstand te gebruiken.
-Vergeet daarbij niet ook de context van deze verzen te beschouwen.
-
 We kunnen de volgende opmerkelijke zaken opmaken uit deze verzen:
 
 1. God gebruikt het woord *hadith* zowel om de Koran zelf aan te duiden,
@@ -102,8 +97,8 @@ We kunnen de volgende opmerkelijke zaken opmaken uit deze verzen:
 
 4. In vers 31:6 lezen we dat er mensen zijn die "ongefundeerde *hadith*
    accepteren" wat tot "afdwalen van het pad van God" leid.  Het woord
-*hadith* draagt hier logischerwijs de algemene betekenis (vertelling,
-overlevering, etc.)
+   *hadith* draagt hier logischerwijs de algemene betekenis (vertelling,
+   overlevering, etc.)
 
 5. In vers 4:87 en 39:23 lezen we dat de Koran de beste en meeste
    betrouwbare *hadith* is.
@@ -113,18 +108,43 @@ overlevering, etc.)
    verzen (66:3-5) lezen we hoe God streng optrad tegen het verspreiden van
    een vertelling/verhaal (hadith) buiten de Koran om.
 
+7. In de Koran wordt **nooit** in positive zin verwezen naar de
+   hadith-collecties.
+
 Op 3 plaatsen in de Koran -- 7:185; 45:6 en 77:50 -- vraagt God ons
 expliciet welke *hadith* wij volgen: de Koran, of een andere die niet
-van Hem afkomstig is?
+van Hem afkomstig is?  Eén van deze verzen luidt:
+
+> 45:6 Dit zijn Gods tekenen (ayaat) die Wij aan jullie me voordragen met
+> waarheid. Dus, welke overlevering (hadith), na God en zijn tekenen,
+> erkennen zij?
 
 Als iemand ons verteld dat er vanuit de Koran wordt verwezen naar de
-hadith-collecties dan kunnen we dus met zekerheid vaststellen dat deze
+hadith-collecties dan kunnen we met zekerheid vaststellen dat deze
 persoon slecht is voorgelicht en/of geen eigen onderzoek heeft gedaan.
 
-Uw eigen onderzoek naar het woord *hadith* is makkelijk; het komt
-slechts 26 keer voor in de Koran, de verzen zijn zojuist genoemd.  U
-zult zien: er wordt in de Koran **nooit** in positive zin verwezen naar
-de 200 jaar later verzamelde hadith-collecties.
+Om zeker te weten hoe de Koran het woord *hadith* gebruikt zullen we
+zelf moeten lezen...  Aangezien het slecht 26 keer voor komt (in de
+hierboven benoemde verzen), is in onderzoek gemakkelijk te zelf te doen.
+De Koran raad ons trouwens ook herhaaldelijk aan **zelf** ons eigen
+onderzoek te doen; te lezen en ons verstand te gebruiken (?:?).
+Vergeet daarbij niet:
+
+* De context van deze verzen te beschouwen -- vaak behoren verzen tot
+  een thema dat over meerdere verzen wordt behandeld.
+
+* Meerdere vertalingen naast elkaar te bekijken -- bijvoorkeur de
+  meer letterlijke en/of woor-voor-woord vertalingen (i.p.v. de meer
+  hadith-collectie geïnspireerde vertalingen).
+
+* We moeten ook van God vragen om ons te leiden in onze zoektocht
+  naar de waarheid.  Zoals de Koran vaak herhaald: Hij leidt wie Hij wil.
+  De kwaliteiten van mensen die Hij tot zich leidt worden eveneens
+  genoem in de Koran.
+
+Zelf onderzoeken hoe het woord *hadith* in de Koran wordt gebruikt
+is makkelijk; de 26 verzen zijn zojuist genoemd.
+
 
 
 ### De omvang van de hadith-collecties
@@ -143,11 +163,15 @@ samenstellers van de 'populaire hadith-collecties':
 * *Muslim* verzamelde ongeveer 300.000 stukken en accepteerde er slechts
   4000 (~1%).
 
-Deze populaire hadith-collecties behoeven op zijn minst kleine
-boekenplank.
+Deze populaire hadith-collecties behoeven op zijn minst een boekenplank.
 
 
 ## Interpretatie trucs om hadith-collecties autoriteit te geven
+
+De veel gebruikte *Koran interpretatie trucs* waarmee de hadith-collecties
+autoriteit wordt gegeven (zogenaamd op basis van de Koran), worden
+hieronder gemakkelijk weerlegd (op basis van de Koran).
+
 
 ### Truc 1: "Gehoorzaam de boodschapper"
 
@@ -168,19 +192,14 @@ hoe kunnen we God en Zijn boodschapper gehoorzamen?
 Het lijkt voor de hand liggend dit te doen door het bericht dat God tot
 ons zond via Zijn boodschapper te accepteren en nauwlettend op te
 volgen.  Bijvoorbeeld: in de Koran staat herhaaldelijk dat we door gebed
-en moreel gedrag dichter tot God kunnen komen.
+en moreel gedrag dichter tot God kunnen komen.  Ook lezen we in de Koran
+over Mohammed, zoals God dat tot ons heeft neer gezonden!
 
 Minder voor de hand liggend is om te proberen de boodschapper's
 doen-en-laten te volgen aan de hand van overleveringen die eerst meer
-dan 200 jaar mondeling zijn overgeleverd.  Daarnaast is het kleine deel
-(~1%) van deze overleveringen dat betrouwbaar wordt geacht op vele punten
+dan 200 jaar mondeling zijn overgeleverd.  En het kleine deel (~1%) van deze
+overleveringen dát betrouwbaar wordt geacht, is op vele punten
 in [tegenspraak met de Koran](#tegespreken) en zichzelf.
-
-De onenigheid over het al dan niet accepteren van bepaalde overleveringen
-veroorzaakte de [opsplitsing in verschillende stromingen](#stromingen),
-zoals deze reeds is voorspeld, en voor gewaarschuwd is, in de Koran
-(6:159).
-
 
 
 ### Truc 2: Mohammed als voorbeeld/onderwijzer
@@ -222,15 +241,14 @@ handelen en instructies die hij kreeg van God **zoals beschreven in Zijn
 Koran** als voorbeeld te nemen, en (2) het enige dat hij mocht
 onderwijzen van God -- de Koran -- te accepteren.  En aangezien God ons
 verbied onderscheid te maken tussen Gods boodschappers (2:136), moeten
-we de andere boodschappers -- over wie ook veel word beschreven in de
+we de andere boodschappers -- over wie ook veel staat geschreven in de
 Koran -- op een gelijke manier als voorbeelden/onderwijzers nemen.
 
 Minder voor de hand liggend is om deze verzen te interpreteren als Gods
 instructie om een 200 jaar later door mensen verzamelde en betrouwbaar geachte
-collectie van-horen-zeggen-teksten als bron van:
-* wijsheid.
-* leef-regels, en
-* essentiële informatie om de Koran mee te kunnen interpreteren en vertalen.
+collectie van-horen-zeggen-teksten als belangrijke gids op het pad van God.
+Laat staan deze dubieuze overleveringen te gebruiken om de zo
+wonderbaarlijke Koran mee te interpreteren en vertalen.
 God waarschuwt ons in de Koran zelfs herhaaldelijk (31:6 en 66:3 ???)
 deze fout niet te maken!
 
@@ -274,14 +292,14 @@ accepteren:
 
 Wat een prachtige aanmoediging van God om:
 
-* de Koran te accepteren van de boodschapper
-* "niet te nemen wat hij (de boodschapper) ons *niet* geeft"; dus geen
-  teksten die niet door God zijn neergezondenr tot godgelijke autoriteit
-  verheffen
-* ervoor te zorgen dat de waardevolle boodschap van de Koran niet door
-  rijken wordt uitgebuit -- een direct aanmoediging tot het uitbannen
-  van analfabetisme!
-
+* De Koran te accepteren van de boodschapper -- volgens de verzen 66:3-5
+  was het absoluut niet de bedoeling dat Mohammed ons meer geschriften
+  na liet dan de Koran.
+* "Niet te nemen wat hij (de boodschapper) ons *niet* geeft"; dus geen
+  teksten die niet door God zijn neergezonden tot goddelijke autoriteit
+  verheffen.
+* Ervoor te zorgen dat de waardevolle boodschap van de Koran niet door
+  rijken tot zichzelf wordt gehouden.
 
 
 ### Truc 5: De boodschapper geeft ons leiding
@@ -414,28 +432,26 @@ en "alles" de Koran bedoelt word.
 <a name="stromingen"></a>
 ### De verschillende 'islamitische stromingen'
 
-Een fundamenteel verschil tussen de verschillende 'islamitische
-stromingen' zijn de hadith-collecties die zij wel of niet accepteren.
+De onenigheid over het al dan niet accepteren van bepaalde overleveringen
+was een belangrijke oorzaak voor de islamitische stromingen.
 
-> 6:159 Those who divide themselves into sects do not belong with you.
-> [...]
+> 6:159 Zij die zich opdelen in stromingen behoren niet bij jou. [...]
 
-Dit wordt tegen de profeet gezegd.  Op basis van de hadith-collecties
-hebben zij zich in stromingen verdeeld; door zich te verdelen behoren ze
-niet meer tot de groep van Mohammed.  Dit terwijl de Koran ons er
+Dit wordt tegen de profeet gezegd.  Belangrijk is hier dat niet de stroming
+zelf, maar juist de *opdelingsmentaliteit* (sektarisme) wordt
+veroordeeld.  Het gevolg het bewust opdelen in stroming is dat
+we niet meer tot de groep van Mohammed behoren.  Dit terwijl de Koran ons er
 herhaaldelijk op wijst "God en Zijn boodschapper" te volgen.
 
-> 21:93 However, they divided themselves into disputing religions. All
-> of them will come back to us (for judgment).
+> 23:53 But they tore themselves into disputing factions; each party
+> happy with what they have.
+> 23:54 Therefore, just leave them in their confusion, for a while.
 
 Hebben de verschillende 'islamitische stromingen' onenigheid?  Vollop
 zelfs!
 
-> 23:53 But they tore themselves into disputing factions; each party
-> happy with what they have.
-> 23:54 Therefore, just leave them in their confusion, for awhile.
-
-Nog een paar:
+Nog een paar tips uit de Koran die vertellen hoe we sektarisme kunnen
+voorkomen:
 
 > 3:103 Hold fast to the rope of God, all of you, and do not split into
 > factions.
@@ -448,53 +464,46 @@ Nog een paar:
 ### Geen dwang in Gods systeem (Islam)
 
 Er is geen dwang in de Islam en ieder mens heeft het recht, sterker nog
-de plicht om zijn of haar eigen verstand te gebruiken en te volgen. Dit
-kan men overweldigend concluderen uit onder andere de volgende verzen in
-de Koran:
+de plicht om zijn of haar eigen verstand te gebruiken en te volgen.
+Dit kan gemakkelijk geconcludereerd worden uit onder andere de volgende
+verzen:
 
-2:256: "Er is geen dwang in de godsdienst. Voorzeker, het juiste pad is
-van dwaling onderscheiden; derhalve, hij die de duivel verloochent en in
-Allah gelooft, heeft een sterk houvast gegrepen, dat onbreekbaar is.
-Allah is Alhorend, Alwetend. "
+> 2:256 Er is geen dwang in de godsdienst. Voorzeker, het juiste pad is
+> van dwaling onderscheiden; derhalve, hij die de duivel verloochent en in
+> God gelooft, heeft een sterk houvast gegrepen, dat onbreekbaar is.
+> God is Alhorend, Alwetend.
 
-10:99: "En indien uw Heer had gewild, zouden allen die op aarde zijn,
-zeker tezamen hebben geloofd. Wilt gij de mensen dan dwingen, gelovigen
-te worden?"
+> 10:99 En indien uw Heer had gewild, zouden allen die op aarde zijn,
+> zeker tezamen hebben geloofd. Wilt gij de mensen dan dwingen, gelovigen
+> te worden?
 
-18:29: "Zeg: "Het is de waarheid van uw Heer: laat daarom geloven die
-geloven wil en niet geloven, die niet wil." Voorwaar, wij hebben de
-boosdoeners een Vuur bereid, welks omheining hen zal insluiten. Indien
-zij om hulp roepen, zullen zij worden begoten met water als gesmolten
-lood, dat hun gezicht zal verbranden. Hoe verschrikkelijk is de drank en
-hoe vreselijk de rustbank."
+> 18:29 Zeg: "Het is de waarheid van uw Heer: laat daarom geloven die
+> geloven wil; en niet-geloven die niet wil." [...]
 
-25:57: "Zeg: "Ik vraag van u geen vergoeding er voor, behalve dat hij,
-die dit wil, de weg naar zijn Heer moge inslaan."
+> 25:57 Zeg: "Ik vraag van u geen vergoeding er voor, behalve dat hij,
+> die dit wil, de weg naar zijn Heer moge inslaan."
 
-73:19: "Dit is zeker een vermaning. Dus moge hij die wil, de weg tot
-zijn Heer inslaan."
+> 73:19 Dit is zeker een vermaning. Dus moge hij die wil, de weg tot
+> zijn Heer inslaan.
 
-74:37: "Aan degene onder u, die vooruit wenst te gaan of degene die wil
-achterblijven,"
+> 74:37 Aan degene onder u, die vooruit wenst te gaan of degene die wil
+> achterblijven.
 
-76:29: "Voorwaar, dit is een vermaning. Wie het daarom wenst, kieze een
-weg die tot zijn Heer leidt."
+> 76:29 Voorwaar, dit is een vermaning. Wie het daarom wenst, kieze een
+> weg die tot zijn Heer leidt.
 
-Deze verzen maken duidelijk dat er geen sprake kan zijn van dwang in de
-Islam. Een ieder heeft dus het recht voor zichzelf te beslissen en zijn
-of haar eigen conclusies te trekken.
+Deze verzen maken overduidelijk dat er geen sprake kan zijn van dwang
+de godsdienst van God.  Eenieder heeft dus het recht voor zichzelf te
+beslissen wat te geloven, en hoe dat in de praktijk te brengen.
 
-Eenieder die wel verkondigd dat er dwang is in Islam verdraait het woord
-van God.
+Eenieder die wel verkondigd dat er dwang is in Gods religie verdraait
+de woorden van de Koran of gaat er, op dit belangrijke punt,
+lijnrecht tegen in.
 
 In hadith-collecties vinden we vele voorbeelden van gruwelijke straffen
 die Mohammed zou hebben opgelegd aan "islam-verlaters" en zij die tegen
-de regel van de Koran de boodschapper zelf in zijn gegaan.  Dit soort
+de regel van de Koran, of zelfs hijzelf in zijn gegaan.  Dit soort
 gruwelijke straffen, zoals steniging, staan niet in de Koran beschreven!
-
-
-
-
 
 
 ## Verwerp de hadith op basis van de hadith
