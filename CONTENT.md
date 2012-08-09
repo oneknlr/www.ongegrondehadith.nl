@@ -2,11 +2,9 @@ Beste lezer, welkom in vrede!
 
 Deze site is een **waarschuwing** voor ieder die in God gelooft en naast
 de Koran ook hadith-collecties accepteert.
-
 De Koran -- door God geopenbaard, recht leidend en vol wijsheid --
-bevat een duidelijke waarschuwing: pas op voor hadith-collecties.
-
-Deze site:
+bevat een duidelijke waarschuwing: *pas op voor hadith-collecties*.
+Deze webpagina:
 
 1. licht die waarschuwing duidelijk uit,
 2. ontkracht de veel gebruikte *Koran interpretatie trucs* waarmee
@@ -27,8 +25,8 @@ vinden we de volgende definitie:
 > vormen de Hadith een aanvulling op en interpretatie van de Koran.
 
 Tegenwoordig betekend het woord 'hadith' iets anders dan in de Koran,
-daarom gebruikt deze site de term 'hadith-collecties' om verwarring te
-voorkomen.
+om verwarring te voorkomen gebruikt deze webpagina de term
+*hadith-collecties* om deze moderne betekenis aan te duiden..
 
 Een paar breed geaccepteerde feiten over de hadith-collecties op een
 rij:
@@ -48,18 +46,18 @@ de hadith-collecties:
 * worden gebruikt voor het interpreteren en vertalen van de Koran
 * zichzelf en de Koran op vele punten tegenspreken
 * niet makkelijk zijn (dit terwijl God de Koran duidelijk en makkelijk
-  heeft gemaakt; zie: 24:1, 54:17,22,32,40)
+  heeft gemaakt, zie: 24:1; 54:17,22,32,40)
 * compleet achterlijke normen, waarden en regels voorschrijven -- in
   tegenstelling tot de zo gebalanceerde en verheven Koran
-* absurde verhalen beschrijft -- in tegenstelling tot de betekenisvolle
+* absurde verhalen bevatten -- in tegenstelling tot de betekenisvolle
   verhalen in de Koran
-* veel vrouw-onvriendelijke regels oplegt
+* vrouw-onvriendelijke regels opleggen
 
-Slechts enkele molims hebben zowel de Koran als een hadith-collectie
+Slechts enkele gelovigen hebben zowel de Koran als een hadith-collectie
 in zijn geheel gelezen.  Daarom is het makkelijk voor 'imams' en andere
-voorgangers om op de sentimenten in te spelen, soms raden voorgangers
+voorgangers om op de sentimenten in te spelen.  Soms raden voorgangers
 zelfs aan de Koran niet op eigen houtje te interpreteren.  Dit staat
-lijnrecht op wat God ons openbaart in de Koran: Hij moedigt ons aan
+lijnrecht op wat God ons openbaart in de Koran: Hij moedigt ons juist aan
 de Koran *zelf* te lezen daarbij ons verstand te gebruiken!
 
 
