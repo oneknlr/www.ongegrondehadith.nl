@@ -44,3 +44,24 @@ header {
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   color: inherit;
 }
+
+.ql {
+  color: #08c;
+  cursor: pointer;
+}
+
+blockquote .ql {
+  text-align: right;
+  float: left;
+  width: 45px;
+  padding-right: 5px;
+}
+
+.qtip-content {
+  font-size: 75%;
+}
+
+.qtip-title {
+  font-size: 85%;
+  padding: 3px 12px !important;
+}

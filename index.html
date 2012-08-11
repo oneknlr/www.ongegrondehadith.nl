@@ -9,8 +9,6 @@
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-    <script type="text/javascript" src="./javascripts/bootstrap-cherrypicked.js"></script>
     <title>Ongegronde Hadith</title>
   </head>
 
@@ -44,11 +42,11 @@
 
 <p>Beste lezer, welkom in vrede!</p>
 
-<p>Deze site is een <strong>waarschuwing</strong> voor ieder die in God gelooft en naast
+<p>Deze webpagina <strong>waarschuwd</strong> ieder die in God gelooft en naast
 de Koran ook hadith-collecties accepteert.
 De Koran -- door God geopenbaard, recht leidend en vol wijsheid --
 bevat een duidelijke waarschuwing: <em>pas op voor hadith-collecties</em>.
-Deze webpagina:</p>
+Deze text:</p>
 
 <ol>
 <li>licht die waarschuwing duidelijk uit,</li>
@@ -794,10 +792,33 @@ on... verify it... what have you got to lose if you know you are right?
         This page is hosted by <a href="http://github.com">GitHub</a>.
       </footer>
 
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+      <script type="text/javascript" src="./javascripts/bootstrap-cherrypicked.js"></script>
+      <script type="text/javascript" src="./javascripts/jquery.qtip-1.0.0-rc3.min.js"></script>
       <script type="text/javascript">
         $(document).ready(function() {
           $('p,h1,h2,h3,h4,h5,li').each(function(){
-            $(this).html($(this).html().replace(/--/,'&mdash;'));
+            // make mdashes out of `--`
+            $(this).html($(this).html().replace(/--/g,'&mdash;'));
+            // annotate the last bits of a reference chain
+            // example: the chain is "1:2-3,4-5,6-7,8-9,10-11,12" (this is the largest possible chain)
+            // this regex parses "8-9,10-11,12"
+            $(this).html($(this).html().replace(/((\d+):\d+(?:-\d+)?,\d+(?:-\d+)?,\d+(?:-\d+)?,)(\d+)(-\d+)?(?:(,)(\d+)(-\d+)?)?(?:(,)(\d+))?/g,
+                "$1<span class='ql' data-nr='$2:$3'>$3$4</span>$5<span class='ql' data-nr='$2:$6'>$6$7</span>$8<span class='ql' data-nr='$2:$9'>$9</span>"));
+            // annotate the first bits of the ref, a.k.a: "1:2-3,4-5,6-7"
+            $(this).html($(this).html().replace(/(\d+):(\d+)(-\d+)?(?:(,)(\d+)(-\d+)?)?(?:(,)(\d+)(-\d+)?)?/g,
+              "<span class='ql' data-nr='$1:$2'>$1:$2$3</span>$4<span class='ql' data-nr='$1:$5'>$5$6</span>$7<span class='ql' data-nr='$1:$8'>$8$9</span>"));
+          });
+          // turn the annotated refs into javascript tooltips with links
+          $('.ql').each(function(){
+            nr = $(this).attr('data-nr').split(':');
+            $(this).qtip({show:{ when: {event: 'click'}}, hide: {when: {event: 'unfocus'}}, style: {border: {radius: 8}, tip: 'bottomMiddle'}, position: {corner: {target: 'topMiddle', tooltip: 'bottomMiddle'}, adjust: {screen: true}}, content: {title: {text: nr[0]+':'+$(this).text().replace(/\d+:/,'')}, text:
+            '<a href="http://al-quran.info/?x=y#&&sura='+nr[0]+'&aya='+nr[1]+'&trans=nl-sofian_siregar&show=trans&ver=2.00">Sofian Siregar (NL)</a><br/>'+
+            '<a href="http://www.bijbelenkoran.nl/ayah.php?lIntEntityId='+nr[0]+'">Fred Leemhuis (NL)</a><br/>'+
+            '<a href="http://quranix.com/?RTQ=1&L=en&NA=50&S='+nr[0]+'&SA='+nr[1]+'">Edip Yüksel et al (EN)</a><br/>'+
+            '<a href="http://quranix.com/?L=tr&NA=50&S='+nr[0]+'&SA='+nr[1]+'">Edip Yüksel (TR)</a><br/>'+
+            '<a href="http://corpus.quran.com/wordbyword.jsp?chapter='+nr[0]+'&verse='+nr[1]+'">Woord-voor-woord (EN)</a>'}
+            });
           });
         });
       </script>

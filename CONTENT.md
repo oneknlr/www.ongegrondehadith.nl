@@ -1,19 +1,19 @@
 Beste lezer, welkom in vrede!
 
-Deze site is een **waarschuwing** voor ieder die in God gelooft en naast
+Deze webpagina waarschuuwt ieder die in God gelooft en naast
 de Koran ook hadith-collecties accepteert.
 De Koran -- door God geopenbaard, recht leidend en vol wijsheid --
 bevat een duidelijke waarschuwing: *pas op voor hadith-collecties*.
-Deze webpagina:
+Deze text:
 
-1. licht die waarschuwing duidelijk uit,
+1. licht Gods waarschuwing duidelijk uit,
 2. ontkracht de veel gebruikte *Koran interpretatie trucs* waarmee
-   de hadith-collecties autoriteit wordt gegeven, en
+   hadith-collecties autoriteit wordt gegeven, en
 3. laat zien hoe de hadith-collecties de Koran op belangrijke
    punten tegenspreekt.
 
 
-## Wat zijn de hadith-collecties precies?
+## Wat zijn de *hadith-collecties* precies?
 
 Op [Wikipedia](http://nl.wikipedia.org/w/index.php?title=Hadith&oldid=30711252)
 vinden we de volgende definitie:
@@ -42,16 +42,16 @@ rij:
 Wat de overgrote meerderheid van de moslims over het hoofd ziet is dat
 de hadith-collecties:
 
-* verboden zijn door God (66:3-5, ???)
-* worden gebruikt voor het interpreteren en vertalen van de Koran
-* zichzelf en de Koran op vele punten tegenspreken
-* niet makkelijk zijn (dit terwijl God de Koran duidelijk en makkelijk
+* Verboden zijn door God. (66:3-5, ???)
+* Worden gebruikt voor het interpreteren en vertalen van de Koran.
+* Zichzelf en de Koran op vele punten tegenspreken.
+* Niet makkelijk zijn. (dit terwijl God de Koran duidelijk en makkelijk
   heeft gemaakt, zie: 24:1; 54:17,22,32,40)
-* compleet achterlijke normen, waarden en regels voorschrijven -- in
-  tegenstelling tot de zo gebalanceerde en verheven Koran
-* absurde verhalen bevatten -- in tegenstelling tot de betekenisvolle
-  verhalen in de Koran
-* vrouw-onvriendelijke regels opleggen
+* Compleet achterlijke normen, waarden en regels voorschrijven -- in
+  tegenstelling tot de zo gebalanceerde en verheven Koran.
+* Absurde verhalen bevatten -- in tegenstelling tot de betekenisvolle
+  verhalen in de Koran.
+* Vrouw-onvriendelijke regels opleggen.
 
 Slechts enkele gelovigen hebben zowel de Koran als een hadith-collectie
 in zijn geheel gelezen.  Daarom is het makkelijk voor 'imams' en andere
