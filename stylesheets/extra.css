@@ -50,6 +50,11 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small {
   cursor: pointer;
 }
 
+blockquote p {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
 blockquote .ql {
   text-align: right;
   float: left;
@@ -65,3 +70,20 @@ blockquote .ql {
   font-size: 85%;
   padding: 3px 12px !important;
 }
+
+.greeting {
+  font-size: 130%;
+  padding-bottom: 25px;
+}
+
+.top {
+  font-size: 115%;
+}
+
+footer {
+  padding-top: 150px;
+  text-align: center;
+  padding-bottom: 15px;
+  font-size: 85%;
+}
+
