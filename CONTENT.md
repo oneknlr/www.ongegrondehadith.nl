@@ -688,6 +688,13 @@ Deze site is niet uit de lucht komen vallen!
 * [The Word Hadith in The Quran](http://muslimvilla.smfforfree.com/index.php?topic=690.0),
   door Wakas Mohammed.
 
+Websites:
+
+* Edip Yüksels [www.19.org](http://www.19.org)
+* De Engelse [Wikipedia pagina over Koranisme](http://en.wikipedia.org/wiki/Quranism)
+* Het [Youtube kanaal](http://www.youtube.com/user/Teddy3inDC) van Teddy in DC (Engels)
+* De [site](http://www.free-minds.org) en het [forum](http://www.free-minds.org/forum/) van 'Progressive Muslims' (Engels)
+
 
 # Vragen?
 
