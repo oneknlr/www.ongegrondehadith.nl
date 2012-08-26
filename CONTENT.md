@@ -11,7 +11,7 @@ Deze tekst:
 2. ontkracht de *Koran interpretatie trucs* waarmee
    hadith-collecties autoriteit wordt gegeven, en
 3. laat zien hoe de hadith-collecties op belangrijke punten
-   integenspraak zijn met de Koran.
+   in tegenspraak zijn met de Koran.
 
 </div>
 
@@ -271,7 +271,7 @@ Middels het volgende Koran-vers bepaald God voor ons het tegenovergestelde:
 > 2:256 Er is geen dwang in de religie; de juist weg is duidelijk te
 > onderscheiden van de foute weg. [...]
 
-Dwang en de religie zijn onverenigbaar, want de religie is gebazeerd op
+Dwang en de religie zijn onverenigbaar, want de religie is gebaseerd op
 wilskracht en overtuiging; welke betekenisloos zijn onder dwang.
 
 Als op dit belangrijke punt de sharia-rechtspraak en de Koran lijnrecht
@@ -288,7 +288,7 @@ Het volgende vers wordt vaak aangehaald als rede om hadith-collecties te
 accepteren:
 
 > 59:7 Hetgeen God Zijn boodschapper in voorzag [...] zal niet
-> gemonopolizeerd worden de rijken onder jullie. Jullie mogen nemen van
+> gemonopoliseerd worden de rijken onder jullie. Jullie mogen nemen van
 > de boodschapper jullie geeft, maar neem niet wat hij jullie onthoud.
 > [...]
 
@@ -299,7 +299,7 @@ We kunnen de volgende conclusies trekken uit dit prachtige vers:
   bedoeling dat hij ons meer na liet dan de Koran.
 * Ervoor te zorgen dat de waardevolle boodschap van de Koran niet door
   de rijken tot zichzelf gehouden wordt -- een duidelijke aanmoediging
-  tot het uitbannen van analphabethisme.
+  tot het uitbannen van analfabethisme.
 * Dat niemand gedwongen kan worden tot het accepteren van de Koran:
   "Jullie *mogen* nemen van de boodschapper jullie geeft".
 
@@ -318,13 +318,13 @@ twee voorafgaande verzen (4:113-114) zijn ook bijgevoegd.
 > als een groep van hen volhardend was jou te misleiden;
 > zouden zij niet hebben misleid behalve zichzelf, nog zouden zij jou
 > iets kwaad kunnen doen. God heeft tot jou het boek en de wijsheid
-> neergezonden, en Hij heef jou gelerd wat je nog niet wist.  God's
+> geopenbaard, en Hij heef jou geleerd wat je nog niet wist.  God's
 > genade voor jou is groot.
 
 > 4:114 Er is niets goeds in veel van hun vertrouwelijke gesprekken,
 > behalve als iemand aanzet tot een liefdadigheid of vriendelijkheid of
 > verzoening tussen de mensen. Wie dit doet verlangend naar Gods
-> gunst, Wij zullen hem een grote belonging geven.
+> gunst, Wij zullen hem een grote beloning geven.
 
 > 4:115 Eenieder die vijandig is jegens de boodschapper nadat de
 > leidraad duidelijk is gemaakt voor hem, en hij volgt iets anders dan
@@ -387,12 +387,12 @@ In de volgende verzen is het Arabische *BaYaNa* vertaald met
 > 5:15 Mensen van het boek, Onze boodschapper is tot jullie gekomen om
 > voor jullie veel te verkondigen (*BaYaNa*) van wat jullie verborgen
 > hielden van het boek, en wat veelal negeerden.  Een licht is gekomen
-> tot jullei van God en een verduidelijkend boek.
+> tot jullie van God en een verduidelijkend boek.
 
 > 3:187 [...] Je zult het verkondigen (*BaYaNa*) tot de mensen en het
 > niet verborgen houden.
 
-> 16:44 Met bewijs en de geschriften.  Wij zendde tot jou neer de
+> 16:44 Met bewijs en de geschriften.  Wij zonden tot jou neer de
 > Herinnering om te verkondigen (*BaYaNa*) tot de mensen wat tot hen
 > gezonden was, en wellicht zullen zij nadenken.
 
@@ -415,15 +415,15 @@ betekenis die geen enkel ander vers van de Koran tegenspreekt.
 In het volgende vers verkondigd God het effect van meervoudige
 betekenissen in de Koran op "zij die een zieke in hun harten hebben":
 
-> 3:7 Hij is Diegene die het boek tot jou neergezond -- daarin zijn
+> 3:7 Hij is Diegene die het boek tot jou neerzond -- daarin zijn
 > duidelijke tekenen, zij zijn de essentie van het boek; en andere die
 > hebben meerdere betekenissen hebben.
 > Zij die een ziekte in hun hart hebben verlangen verwarring te
 > veroorzaken en verlangen de interpretatie ervan te verdraaien, zij
 > zullen de meerdere betekenissen volgen.  Maar niemand weet hun
-> betekenis behalve God en zij die goed ondelegt zijn in kennis;
+> betekenis behalve God en zij die goed onderlegt zijn in kennis;
 > zij zeggen, "Wij erkennen het, alles is van onze Heer."  Niemand zal
-> het herinnereren behalve de mensen met verstand.
+> het herinneren behalve de mensen met verstand.
 
 Dit vers stelt ook dat er een groep mensen is die wel weten wat de
 betekenis is, namelijk zij die "zich stevig baseren op kennis", en
@@ -447,11 +447,11 @@ niet voldoende gedetailleerd is:
 
 * Exacte handelingen tijdens het bidden en ritueel wassen.
 * De gebedstijden.
-* Kledingsvoorschriften.
+* Kledingvoorschriften.
 * De sharia-rechtspraak.
 
-Dat dit een circel-redenering betrefd is overduidelijk: na eeuwen
-te zijn beïnvloed door hadith-collecties zijn allerlij tradities
+Dat dit een cirkel-redenering betreft is overduidelijk: na eeuwen
+te zijn beïnvloed door hadith-collecties zijn allerlei tradities
 ontstaan onder de moslims, nu worden die tradities gebruikt om de
 noodzaak van de hadith-collecties te onderstrepen.
 
@@ -642,7 +642,7 @@ De Koran duid zichzelf ook aan met andere woorden, zoals: boek
 (*kitab*), bericht/herinnering (*zekr*), onderscheidmaker (*furqan*) en
 geopenbaarde (*tanzil*).  In tegenstelling tot de naam 'Koran' worden
 deze woorden ook voor andere geschriften gebruikt.  De volgende
-eigenschappen van de Koran worden aan on kenbaar gemaakt in versen waar
+eigenschappen van de Koran worden aan ons kenbaar gemaakt in verzen waar
 de naam 'Koran' wordt gebruikt om het boek aan te duiden:
 
 * de Koran is er om mensen mee te waarschuwen (6:19)
@@ -679,26 +679,24 @@ Deze site is niet uit de lucht komen vallen!
 
 * [Quran, Hadith and Islam](http://www.masjidtucson.org/publications/books/qhi/qhi.html),
   door Rashad Khalifa.
-
 * [Quran: A Reformist Translation](http://www.amazon.com/Quran-Reformist-Translation-Modern-English/dp/0979671507),
   een vertaling van de Koran naar het Engels die niet beïnvloed is
   door hadith-collecties door Edip Yüksel, Layth Saleh al-Shaiban en
   Martha Schulte-Nafeh.
-
 * [The Word Hadith in The Quran](http://muslimvilla.smfforfree.com/index.php?topic=690.0),
   door Wakas Mohammed.
-
-Websites:
-
 * Edip Yüksels [www.19.org](http://www.19.org)
 * De Engelse [Wikipedia pagina over Koranisme](http://en.wikipedia.org/wiki/Quranism)
 * Het [Youtube kanaal](http://www.youtube.com/user/Teddy3inDC) van Teddy in DC (Engels)
 * De [site](http://www.free-minds.org) en het [forum](http://www.free-minds.org/forum/) van 'Progressive Muslims' (Engels)
+* [Beyond Probability](http://submission.info/downloads/bp.pdf) door Abdullah Arik.
 
 
-# Vragen?
+# Vragen, opmerkingen of anderzijds geïnteresseerd?
 
-Voel je vrij om deze te stellen aan de [Koranisme groep](https://groups.google.com/forum/?fromgroups#!forum/koranisme).
+Meld je dan graag aan bij de [Koranisme groep](https://groups.google.com/forum/?fromgroups#!forum/koranisme).
 
-
+Als je een opmerking hebt over iets specifieks op deze site, dan kun je
+[een 'issue' aanmaken](https://github.com/oneknlr/www.ongegrondehadith.nl/issues).
+Hiervoor moet je wel een gratis GitHub accountje aanmaken.
 
