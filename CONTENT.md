@@ -692,6 +692,11 @@ Deze site is niet uit de lucht komen vallen!
 * [Beyond Probability](http://submission.info/downloads/bp.pdf) door Abdullah Arik.
 
 
+# Meer weten over Islam en/of Koranisme?
+
+* De Nederlandse [Wikipedia pagina over Koranisme](http://nl.wikipedia.org/wiki/Koranisme)
+
+
 # Vragen, opmerkingen of anderzijds geïnteresseerd?
 
 Meld je dan graag aan bij de [Koranisme groep](https://groups.google.com/forum/?fromgroups#!forum/koranisme).
