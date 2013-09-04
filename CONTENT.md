@@ -198,7 +198,7 @@ Minder voor de hand liggend is om te proberen de boodschapper's
 doen-en-laten te volgen aan de hand van overleveringen die eerst meer
 dan 200 jaar mondeling zijn overgeleverd.  En het kleine deel (~1%) van deze
 overleveringen dát betrouwbaar wordt geacht, is op vele punten
-in [tegenspraak met de Koran](#tegespreken) en zichzelf.
+in tegenspraak met de Koran en zichzelf.
 
 
 ## Truc 2: Mohammed als voorbeeld/onderwijzer
