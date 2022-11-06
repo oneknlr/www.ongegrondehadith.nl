@@ -806,10 +806,9 @@ Hiervoor moet je wel een gratis GitHub accountje aanmaken.</p>
           $('.ql').each(function(){
             nr = $(this).attr('data-nr').split(':');
             $(this).qtip({show:{ when: {event: 'click'}}, hide: {when: {event: 'unfocus'}}, style: {border: {radius: 8}, tip: 'bottomMiddle'}, position: {corner: {target: 'topMiddle', tooltip: 'bottomMiddle'}, adjust: {screen: true}}, content: {title: {text: nr[0]+':'+$(this).text().replace(/\d+:/,'')}, text:
-            '<a href="http://al-quran.info/?x=y#&&sura='+nr[0]+'&aya='+nr[1]+'&trans=nl-sofian_siregar&show=trans&ver=2.00">Sofian Siregar (NL)</a><br/>'+
-            '<a href="http://www.bijbelenkoran.nl/ayah.php?lIntEntityId='+nr[0]+'">Fred Leemhuis (NL)</a><br/>'+
-            '<a href="http://quranix.com/?RTQ=1&L=en&NA=50&S='+nr[0]+'&SA='+nr[1]+'">Edip Yüksel et al (EN)</a><br/>'+
-            '<a href="http://quranix.com/?L=tr&NA=50&S='+nr[0]+'&SA='+nr[1]+'">Edip Yüksel (TR)</a><br/>'+
+            '<a href="https://quran.com/nl/'+nr[0]+'?startingVerse='+nr[1]+'&translations=144">Sofian Siregar (NL)</a><br/>'+
+            '<a href="http://quranix.org/?RTQ=1&L=en&NA=50&S='+nr[0]+'&SA='+nr[1]+'">Edip Yüksel et al (EN)</a><br/>'+
+            '<a href="http://quranix.org/?L=tr&NA=50&S='+nr[0]+'&SA='+nr[1]+'">Edip Yüksel (TR)</a><br/>'+
             '<a href="http://corpus.quran.com/wordbyword.jsp?chapter='+nr[0]+'&verse='+nr[1]+'">Woord-voor-woord (EN)</a>'}
             });
           });
