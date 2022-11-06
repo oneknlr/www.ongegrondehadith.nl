@@ -8,3 +8,5 @@ Compiling the CSS is done with `lessc` which can be installed with
 following command to compile it from the repository's root directory:
 
     /home/cies/github/node/node_modules/.bin/lessc stylesheets/bootstrap.less > stylesheets/bootstrap.css
+
+**WARNING:** Adjustments to the `.html` file were made, that are not in the `CONTENT.md` file!
